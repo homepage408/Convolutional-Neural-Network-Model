@@ -7,7 +7,7 @@ Deep Learning
 python3 -m venv (nama_environment)
 
 # Install dependensi
-pip3 install -r requirements.txt
+pip3 install -r requirements.txt or
 pip install -r requirements.txt
 
 # Akses virtual environtment
